@@ -1,0 +1,149 @@
+1.
+Improved Uv Sterilizer for Masks:
+Components Required:
+UV-C sterilizer lamp(for generating UV rays)
+dc gearmotor 12V(for rotating the jar)
+Description:
+It is a device that would relaibly kill the corona virus anywhere on the surface of masks.This system uses a Ball Jar , with modified end caps, to contain a mask or other sterilizer payload on a roller system. The jar rotates directly under the UV lamp at an adjustable speed. This allows for prolonged, close-range exposure to UV-C light, which is proven to disrupt the DNA of viruses and destroy their ability to infect people.
+									
+
+
+
+
+2.Soil Moisture Tester:
+Components Required:
+Soil moisture sensor
+Small BreadBoard
+3*330 ohm resistors
+red,yellow,green led
+jumper wires
+Arduino uno
+
+Description:
+Soil moisture sensor is used to measure ground conductivity.Arduino is used to create some levels of soil moisture.LED’s are used to show the levels of moisture.
+The Soil Moisture Sensor uses capacitance to measure dielectric permittivity of the surrounding medium. In soil, dielectric permittivity is a function of the water content. The sensor averages the water content over the entire length of the sensor.
+
+
+3.E-Ink Family Calendar Using ESP32:
+Supplies:
+E-ink screen(E-ink technology works by using tiny microcapsules that are suspended in a liquid placed within a film layer.)
+ESP32 microcontroller(for Wi-Fi and Bluetooth module)
+LIPO battery
+Description:
+Creating a nice looking e-ink calendar or any info that can hang in our living room/kitchen.We can also sync calender events from google 
+
+
+4.
+Game that learns how to play itself:
+Hardware Components:
+Arduino Nano R3
+MG-90s servos(2)
+Software Components:
+Unity
+Description:
+The ball needs to be as close to the target while being balanced on the platform to get maximum number of points.The game starts by throwing the ball at random speed in random direction.
+For the game and ML part Unity coupled with ML-agent toolkits(for ball balancing exercise) are used.
+An arm is designed that would actuate the joystick.
+
+
+5.IoT Temperature and Humidity Sensor:
+This project uses temperature and humidity sensors to display the values in the internet.
+To show the output in the internet, Adafruit-io is used.
+
+
+6.
+Arduino based hand gesture control computer:
+It is a simple Arduino based hand gesture control where you can control few functions of your web browser like switching between tabs, scrolling up and down in web pages, shift between tasks (applications), play or pause a video and increase or decrease the volume (in VLC Player) with the help of hand gestures.It is implemented using Python.
+Python modules used:
+1.serial(library for communicating with serial ports)
+2.pyautogui(to mimic the actions of mouse like left click, right click, scroll, etc. and keyboard like keypress, enter text, multiple key press, etc. without physically doing them)
+
+
+7.
+FM Radio Jammer Circuit:
+It is an instrument that can prevent the reception of signals by Mobile phones.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+It basically creates a very high frequency signal which will create the noise in the original signal so that receiver cannot receive the signal.
+Blocking or Jamming Radio signals is illegal.It is normally used by millitary, navy, air force and defence systems.
+
+
+8.
+Battery Level Indicator:
+The heart of this battery level indicator circuit is LM3914 IC(suitable for indicating 12V battery level). This IC takes input analog voltage and drives 10 LED’s linearly according to the input analog voltage.
+We can use this circuit to check car battery or inverter. So by using this circuit, we can increase the lifetime of battery.
+
+9.
+Wireless Mobile Charger Circuit:
+This circuit mainly works on the principle of mutual inductance.It uses two circuits transmitter circuit(used to produce voltage wirelessly) and receiver circuit(AC power is induced in the coil).
+Thus we can remove wires for charging. This circuit may be used as wireless power transfer circuit, wireless mobile charger circuit, wireless battery charger circuit, etc.
+
+10.
+Metal Detector Circuit:
+TDA0161 is a Proximity Detector IC used to detect metal objects by detecting the slight changes in the high frequency Eddy current losses.The metal object has to be at a distance of 10mm for the detector to detect it.This simple Metal Detector can be used to identify metals like iron, gold, silver etc.
+
+11.
+Crowd Detection Camera:
+We use RPi with a camera for capturing live video.The video is then processed frame by frame.By using image processing with the help of TensorFlow in Python, people and vehicles in the video are identified.
+It can be used to 
+    • Detect high traffic on roads.
+    • Identify any unauthorised human entry in a restricted area.
+    • Observe the number of people in a hall/auditorium.
+    • Maintain and monitor the flow of the crowd in a protest.
+
+
+12.
+RFID(Radio Frequency IDentification) based Attendance System:
+Circuit Components:
+    • ATMEGA8 Microcontroller(to store data)
+    • RFID Reader
+    • RFID Tags
+    • LCD display
+RFID based attendance system consists of RFID Reader, RFID Tag, LCD display and microcontroller unit.When the tag is placed near the reader, due to the induced mutual inductance energy, data is transferred to reader.
+
+
+13.
+Automatic Railway Gate Controller:
+The principle of operation behind the working of this project lies in the functioning of IR Sensor. A Reflective type IR Sensor is used in this project.L293D is a motor driver IC used in this project to control the gate motor.With the help of this motor driver IC, we can control two motors at a time with both forward and reverse direction control for individual motors.
+
+
+14.
+Random Number Generator using 8051:
+This project generates a random number in between 0 to 100 when a push button is pressed.In this, the counter is incremented from 0 to 99 at a high speed. If you press the button, then the LCD displays the current count value. As the count is incrementing at a high speed, the 8051 Microcontroller selects a random number when button is pressed.Then a program in written for Random number generation using Keil software for generating hex file inorder to upload into the 8051 microcontroller. 
+
+15.
+Raspberry Pi as Web Server:
+We use Raspberry pi as a dedicated web server and our laptop as a client accessing the web server. The process is an example of the client/server model.We need to log into Rpi via ssh and configure it.After that, we use Apache webserver and Wordpress(for PHP website creation tool).
+
+
+16.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
