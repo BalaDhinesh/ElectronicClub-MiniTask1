@@ -11,7 +11,9 @@ __The main components involved are:__
 __Python modules used:__
 - serial(library for communicating with serial ports)
 - pyautogui(to mimic the actions of mouse like left click, right click, scroll, etc. and keyboard like keypress, enter text, multiple key press, etc. without physically doing them)
-#3 Web Link:
+
+
+## Web Link:
 https://www.electronicshub.org/arduino-based-hand-gesture-control-computer/
 
 ## Circuit Diagram
