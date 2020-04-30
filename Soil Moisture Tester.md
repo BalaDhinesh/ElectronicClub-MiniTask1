@@ -1,4 +1,6 @@
-# Components Required:
+# Soil Moisture Tester
+
+## Components Required:
 
 - Soil moisture sensor
 - Small BreadBoard
@@ -7,13 +9,13 @@
 - jumper wires
 - Arduino uno
 
-# Description:
+## Description:
 Soil moisture sensor is used to measure ground conductivity.Arduino is used to create some levels of soil moisture.LED’s are used to show the levels of moisture.
 The Soil Moisture Sensor uses capacitance to measure dielectric permittivity of the surrounding medium. In soil, dielectric permittivity is a function of the water content. The sensor averages the water content over the entire length of the sensor.
 
-# Web link:
+## Web link:
 http://www.circuitstoday.com/arduino-soil-moisture-sensor
 
-Image of Soil Moisture Sensor Circuit:
+__Image of Soil Moisture Sensor Circuit:__
 
 ![Soil Moisture Sensor Circuit](http://www.circuitstoday.com/wp-content/uploads/2017/03/Interface_Arduino_Soil_Moisture_Sensor.png)
