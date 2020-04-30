@@ -20,5 +20,5 @@ https://www.electronicshub.org/arduino-based-hand-gesture-control-computer/
 ![Circuit Diagram](https://www.electronicshub.org/wp-content/uploads/2017/11/Arduino-based-Hand-Gesture-Control-Image-1.jpg)
 
 
-
+## GIF showing working of project:
 ![GIF](https://media.giphy.com/media/lQIa0kOFPjCTN9DxcO/giphy.gif)
