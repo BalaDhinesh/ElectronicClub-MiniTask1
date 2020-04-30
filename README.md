@@ -1,2 +1,2 @@
-# ElectronicClub-MiniTask1
+# ElectronicsClub-MiniTask1
 Contains the description of various diverse electronic projects
